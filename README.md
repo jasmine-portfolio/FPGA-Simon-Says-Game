@@ -40,7 +40,7 @@ To get started, follow these simple steps:
 - **Step 1**: Install Git (if not already installed) from [here](https://git-scm.com/downloads).
 - **Step 2**: Clone the repository by running the following command in your terminal or command prompt:
     ```bash
-    bash    git clone https://github.com/yourusername/simon-says-fpga.git
+    bash    git clone https://github.com/jasmine-portfolio/FPGA-Simon-Says-Game.git
     ```
 - **Step 3**: Connect the components to your FPGA board based on Hardware Setup Diagram.
 - **Step 4**: Load the SystemVerilog code onto your FPGA board. This can typically be done using an FPGA programming tool (e.g., Vivado, Quartus, etc.).
